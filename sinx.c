@@ -1,0 +1,1 @@
+print ("sinx.x")
