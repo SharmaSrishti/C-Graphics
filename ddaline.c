@@ -1,7 +1,7 @@
 #include<GL/glut.h>
 #include<stdio.h>
 #include<stdlib.h>
-#include<cmath>
+#include<math.h>
 #define ROUND(x) ((int)(x+0.5))
 
 int  xa,ya,xb,yb;
