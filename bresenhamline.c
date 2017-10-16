@@ -1,6 +1,6 @@
 #include<GL/glut.h>
 #include<stdio.h>
-#include<cmath>
+#include<math.h>
 int xa,ya,xb,yb;
 void init()
 {
