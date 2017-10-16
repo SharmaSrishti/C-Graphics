@@ -1,2 +1,1 @@
-#include<GL/glut.h>
-
+print("first")
