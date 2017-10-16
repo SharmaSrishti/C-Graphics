@@ -1,5 +1,5 @@
 #include<GL/glut.h>
-#include<cmath>
+#include<math.h>
 void init()
 {
 	glOrtho(-10,10,-10,10,-10,10);
